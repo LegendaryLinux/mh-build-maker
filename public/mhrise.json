@@ -1,0 +1,1751 @@
+{
+  "game": "Monster Hunter Rise",
+  "skills": [
+    {
+      "name": "Affinity Sliding",
+      "maxRank": 1,
+      "decorations": [
+        {
+          "name": "Slider Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Agitator",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Challenger Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Ammo Up",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Capacity Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Artillery",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Artillery Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Attack Boost",
+      "maxRank": 7,
+      "decorations": [
+        {
+          "name": "Attack Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Ballistics",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Precise Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Precise Jewel 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Bladescale Hone",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Bladescale Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Blast Attack",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Blast Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Blast Resistance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Antiblast Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Blight Resistance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Resistor Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Resistor Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },{
+      "name": "Blood Rite",
+      "maxRank": 3,
+      "decorations": [],
+      "rampageDecorations": []
+    },{
+      "name": "Bloodlust",
+      "maxRank": 3,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Bludgeoner",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Blunt Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Bombardier",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Bomber Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Bomber Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Botanist",
+      "maxRank": 4,
+      "decorations": [
+        {
+          "name": "Botany Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Botany Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Bow Charge Plus",
+      "maxRank": 1,
+      "decorations": [
+        {
+          "name": "Mighty Bow Jewel 4",
+          "slotLevel": 4,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Bubbly Dance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Bubble Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Bubble Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Capture Master",
+      "maxRank": 1,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Carving Master",
+      "maxRank": 1,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Carving Pro",
+      "maxRank": 1,
+      "decorations": [
+        {
+          "name": "Carver Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Chain Crit",
+      "maxRank": 3,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Chameleos Blessing",
+      "maxRank": 4,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Charge Master",
+      "maxRank": 3,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Coalescence",
+      "maxRank": 3,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Constitution",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Physique Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Physique Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Counterstrike",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Counter Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Critical Boost",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Critical Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Critical Draw",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Draw Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        },
+        {
+          "name": "Draw Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Critical Element",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Crit Element Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Crit Element Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Critical Eye",
+      "maxRank": 7,
+      "decorations": [
+        {
+          "name": "Expert Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Defense Boost",
+      "maxRank": 7,
+      "decorations": [
+        {
+          "name": "Defense Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Defense Jewel+ 2",
+          "slotLevel": 2,
+          "levels": 2
+        },
+        {
+          "name": "Hard Defense Jewel 3",
+          "slotLevel": 3,
+          "levels": 3
+        },
+        {
+          "name": "Hard Defense Jewel++ 4",
+          "slotLevel": 4,
+          "levels": 5
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Dereliction",
+      "maxRank": 3,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Diversion",
+      "maxRank": 1,
+      "decorations": [
+        {
+          "name": "Diversion Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Divine Blessing",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Protection Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Protection Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Dragon Attack",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Dragon Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Dragon Jewel+ 2",
+          "slotLevel": 2,
+          "levels": 2
+        },
+        {
+          "name": "Hard Dragon Jewel 3",
+          "slotLevel": 3,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Dragon Resistance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Dragon Res Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Dragon Res Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Dragonheart",
+      "maxRank": 5,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Earplugs",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Earplug Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        },
+        {
+          "name": "Earplug Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Evade Extender",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Jumping Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Jumping Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Evade Window",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Evasion Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Evasion Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Fire Attack",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Blaze Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Blaze Jewel+ 2",
+          "slotLevel": 2,
+          "levels": 2
+        },
+        {
+          "name": "Hard Blaze Jewel 3",
+          "slotLevel": 3,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Fire Resistance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Fire Res Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Fire Res Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Flinch Free",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Brace Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Brace Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Focus",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Charger Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Charger Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Foray",
+      "maxRank": 3,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Fortify",
+      "maxRank": 1,
+      "decorations": [
+        {
+          "name": "Fortitude Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Free Meal",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Satiated Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Satiated Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Furious",
+      "maxRank": 3,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Geologist",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Geology Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Geology Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Good Luck",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Fate Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        },
+        {
+          "name": "Fate Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Grinder (S)",
+      "maxRank": 3,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Guard",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Ironwall Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Ironwall Jewel+ 3",
+          "slotLevel": 3,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Guard Up",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Shield Jewel 2",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Shield Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Handicraft",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Handicraft Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Hellfire Cloak",
+      "maxRank": 4,
+      "decorations": [
+        {
+          "name": "Hellfire Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        },
+        {
+          "name": "Hellfire Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Heroics",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Potential Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Horn Maestro",
+      "maxRank": 1,
+      "decorations": [
+        {
+          "name": "Sonorous Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Hunger Resistance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Hungerless Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Hungerless Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Ice Attack",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Frost Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Frost Jewel+ 2",
+          "slotLevel": 2,
+          "levels": 2
+        },
+        {
+          "name": "Hard Frost Jewel 3",
+          "slotLevel": 3,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Ice Resistance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Ice Res Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Ice Res Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Item Prolonger",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Enduring Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Hard Enduring Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Jump Master",
+      "maxRank": 1,
+      "decorations": [
+        {
+          "name": "Leap Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Kushala Blessing",
+      "maxRank": 4,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Latent Power",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Throttle Jewel 2",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Leap of Faith",
+      "maxRank": 1,
+      "decorations": [
+        {
+          "name": "Dive Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Load Shells",
+      "maxRank": 2,
+      "decorations": [
+        {
+          "name": "Magazine Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Mail of Hellfire",
+      "maxRank": 3,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Marathon Runner",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Sprinter Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Sprinter Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Master Mounter",
+      "maxRank": 1,
+      "decorations": [
+        {
+          "name": "Rodeo Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Master's Touch",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Mastery Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Maximum Might",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Mighty Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Mind's Eye",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Mind's Eye Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Mind's Eye Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Muck Resistance",
+      "maxRank": 2,
+      "decorations": [
+        {
+          "name": "Muck Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Mushroomancer",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Fungiform Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        },
+        {
+          "name": "Fungiform Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Normal / Rapid Up",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Forceshot Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Offensive Guard",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Guardian Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Paralysis Attack",
+      "maxRank": 3,
+      "decorations": [],
+      "rampageDecorations": [
+        {
+          "name": "Paralyzer Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ]
+    },
+    {
+      "name": "Paralysis Resistance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Antipara Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Partbreaker",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Destroyer Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Peak Performance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Flawless Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Pierce Up",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Pierce Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Poison Attack",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Venom Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Poison Resistance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Antidote Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Power Prolonger",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Enhancer Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Enhancer Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Protective Polish",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Sharp Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Punishing Draw",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Gambit Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Gambit Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Quick Breath",
+      "maxRank": 1,
+      "decorations": [
+        {
+          "name": "Breath Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Quick Sheath",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Sheath Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Rapid Fire Up",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Salvo Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Rapid Morph",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Quickswitch Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Razor Sharp",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Razor Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Recoil Down",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Absorber Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Recovery Speed",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Recovery Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Recovery Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Recovery Up",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Medicine Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Medicine Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Redirection",
+      "maxRank": 2,
+      "decorations": [
+        {
+          "name": "Redirection Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Reload Speed",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Quickload Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Resentment",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Furor Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Resuscitate",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Crisis Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Sleep Attack",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Sleep Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Sleep Resistance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Pep Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Slugger",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "KO Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "KO Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Spare Shot",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Thrift Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Special Ammo Boost",
+      "maxRank": 2,
+      "decorations": [
+        {
+          "name": "Trueshot Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Speed Eating",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Gobbler Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Gobbler Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Speed Sharpening",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Grinder Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Grinder Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Spiribird's Call",
+      "maxRank": 1,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Spread Up",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Spread Jewel 3",
+          "slotLevel": 3,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Stamina Surge",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Refresh Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Refresh Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Stamina Thief",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Drain Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Drain Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Steadiness",
+      "maxRank": 2,
+      "decorations": [
+        {
+          "name": "Sniper Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Sniper Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Stormsoul",
+      "maxRank": 4,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Stun Resistance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Steadfast Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Steadfast Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Teostra Blessing",
+      "maxRank": 4,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Thunder Alignment",
+      "maxRank": 5,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Thunder Attack",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Bolt Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Bolt Jewel+ 2",
+          "slotLevel": 2,
+          "levels": 2
+        },
+        {
+          "name": "Hard Bolt Jewel 3",
+          "slotLevel": 3,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Thunder Resistance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Thunder Res Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Thunder Res Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Tremor Resistance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Footing Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Footing Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Tune-Up",
+      "maxRank": 2,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Wall Runner",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Wall Run Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Hard Wall Run Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Wall Runner (Boost)",
+      "maxRank": 1,
+      "decorations": [
+        {
+          "name": "Flywall Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Water Attack",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Stream Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Stream Jewel+ 2",
+          "slotLevel": 2,
+          "levels": 2
+        },
+        {
+          "name": "Hard Stream Jewel 3",
+          "slotLevel": 3,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Water Resistance",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Water Res Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Water Res Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Weakness Exploit",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Tenderizer Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Wide-Range",
+      "maxRank": 5,
+      "decorations": [
+        {
+          "name": "Friendship Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Hard Friendship Jewel 3",
+          "slotLevel": 3,
+          "levels": 3
+        },
+        {
+          "name": "Hard Friendship+ 4",
+          "slotLevel": 4,
+          "levels": 4
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Wind Alignment",
+      "maxRank": 5,
+      "decorations": [],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Windproof",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Wind Res Jewel 1",
+          "slotLevel": 1,
+          "levels": 1
+        },
+        {
+          "name": "Hard Wind Res Jewel 4",
+          "slotLevel": 4,
+          "levels": 3
+        }
+      ],
+      "rampageDecorations": []
+    },
+    {
+      "name": "Wirebug Whisperer",
+      "maxRank": 3,
+      "decorations": [
+        {
+          "name": "Wirebug Jewel 2",
+          "slotLevel": 2,
+          "levels": 1
+        },
+        {
+          "name": "Wirebug Jewel+ 4",
+          "slotLevel": 4,
+          "levels": 2
+        }
+      ],
+      "rampageDecorations": []
+    }
+  ],
+  "armor": {
+    "head": [
+      {
+        "name": "",
+        "rank": "",
+        "slot1": null,
+        "slot2": null,
+        "slot3": null,
+        "skills": {}
+      }
+    ],
+    "chest": [
+      {
+        "name": "",
+        "rank": "",
+        "slot1": null,
+        "slot2": null,
+        "slot3": null,
+        "skills": {}
+      }
+    ],"wrists": [
+      {
+        "name": "",
+        "rank": "",
+        "slot1": null,
+        "slot2": null,
+        "slot3": null,
+        "skills": {}
+      }
+    ],"waist": [
+      {
+        "name": "",
+        "rank": "",
+        "slot1": null,
+        "slot2": null,
+        "slot3": null,
+        "skills": {}
+      }
+    ],"legs": [
+      {
+        "name": "",
+        "rank": "",
+        "slot1": null,
+        "slot2": null,
+        "slot3": null,
+        "skills": {}
+      }
+    ]
+  }
+}
